@@ -1,7 +1,7 @@
 <template lang="pug">
   div#app
     img(src="./assets/logo.png")
-    h1 Welcome from pug & sass
+    h1 Welcome
 </template>
 
 <script>
